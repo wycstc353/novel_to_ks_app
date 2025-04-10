@@ -1,0 +1,10 @@
+{
+    "远坂凛": {
+        "positive": "1girl, solo, character_a_base_tags, looking at viewer",
+        "negative": "bad anatomy, extra limbs, blurry"
+    },
+    "远坂樱": {
+        "positive": "1girl, solo, character_b_tags, blue shirt",
+        "negative": "low quality, text, signature"
+    }
+}
