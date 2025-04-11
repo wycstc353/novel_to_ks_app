@@ -1,3 +1,0 @@
-customtkinter>=5.0 # Or a recent version
-requests>=2.25
-pygame>=2.0
