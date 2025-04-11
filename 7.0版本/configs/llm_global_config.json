@@ -1,0 +1,16 @@
+{
+    "apiKey": "",
+    "apiEndpoint": "https://generativelanguage.googleapis.com",
+    "modelName": "gemini-2.0-flash",
+    "temperature": 1.0,
+    "maxOutputTokens": 65535,
+    "preInstruction": "",
+    "postInstruction": "",
+    "successSoundPath": "assets/成功音效.wav",
+    "failureSoundPath": "assets/失败音效.wav",
+    "saveDebugInputs": false,
+    "enableStreaming": false,
+    "use_proxy": false,
+    "proxy_address": "",
+    "proxy_port": ""
+}
