@@ -206,7 +206,8 @@
 ---
 
 ## 更新日志
-
+*   **2025-04-12**:
+    *   **测试了Stable Diffusion**: 成功测试了Stable Diffusion可用性，并且对UI进行了微量修改。
 *   **2025-04-11**:
     *   **代码结构模块化**: 将 `.py` 文件移动到 `api`, `core`, `tasks`, `ui` 子目录，提高可维护性。
     *   **新增 Stable Diffusion 支持**: 添加 SD WebUI API 配置标签页和图片生成功能 (**未经测试**)。
