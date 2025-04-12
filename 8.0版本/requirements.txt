@@ -1,0 +1,4 @@
+customtkinter>=5.2.0
+requests>=2.28.0
+pygame>=2.1.0 # 可选，如果需要声音提示功能
+win10toast # 用于 Windows 通知
