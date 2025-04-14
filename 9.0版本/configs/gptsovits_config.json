@@ -1,0 +1,43 @@
+{
+    "apiUrl": "http://127.0.0.1:8081/infer_ref",
+    "model_name": "崩坏3",
+    "audioSaveDir": "E:/baiduyun/novel_to_ks_app/音频",
+    "audioPrefix": "cv_",
+    "how_to_cut": "按标点符号切",
+    "top_k": 10,
+    "top_p": 1.0,
+    "temperature": 1.0,
+    "ref_free": false,
+    "audio_dl_url": "http://127.0.0.1:8081",
+    "batch_size": 1,
+    "batch_threshold": 0.75,
+    "split_bucket": true,
+    "speed_facter": 1.0,
+    "fragment_interval": 0.3,
+    "parallel_infer": true,
+    "repetition_penalty": 1.35,
+    "seed": -1,
+    "character_voice_map": {
+        "远坂葵": {
+            "mode": "random",
+            "refer_wav_path": "D:/asdasd/GSVI_v2/models/崩坏3/reference_audios/randoms/空之律者/中文",
+            "prompt_text": "",
+            "prompt_language": "zh",
+            "text_language": "zh"
+        },
+        "远坂凛": {
+            "mode": "random",
+            "refer_wav_path": "D:/asdasd/GSVI_v2/models/崩坏3/reference_audios/randoms/空之律者/中文",
+            "prompt_text": "",
+            "prompt_language": "zh",
+            "text_language": "zh"
+        },
+        "小樱": {
+            "mode": "random",
+            "refer_wav_path": "D:/asdasd/GSVI_v2/models/崩坏3/reference_audios/randoms/空之律者/中文",
+            "prompt_text": "",
+            "prompt_language": "zh",
+            "text_language": "zh"
+        }
+    }
+}
