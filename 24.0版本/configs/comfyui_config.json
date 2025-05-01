@@ -1,0 +1,21 @@
+{
+    "comfyapiUrl": "http://127.0.0.1:8188",
+    "comfyWorkflowFile": "E:/浏览器下载/简易文生图api.json",
+    "comfyCkptName": "",
+    "comfyVaeName": "",
+    "comfyLoraName": "",
+    "comfyLoraStrengthModel": 0.7,
+    "comfyLoraStrengthClip": 0.7,
+    "comfyPositiveNodeTitle": "正面提示词",
+    "comfyNegativeNodeTitle": "负面提示词",
+    "comfyOutputNodeTitle": "保存图像",
+    "comfySamplerNodeTitle": "euler",
+    "comfyLatentImageNodeTitle": "空Latent",
+    "comfyCheckpointNodeTitle": "Checkpoint加载器(简易)",
+    "comfyVAENodeTitle": "VAE解码",
+    "comfyClipTextEncodeNodeTitle": "",
+    "comfyLoraLoaderNodeTitle": "LoRA加载器",
+    "comfyLoadImageNodeTitle": "",
+    "comfyFaceDetailerNodeTitle": "",
+    "comfyTilingSamplerNodeTitle": ""
+}

@@ -1,0 +1,23 @@
+# requirements.txt
+
+# UI 框架
+customtkinter
+
+# HTTP 请求库 (用于调用各种 API)
+requests
+
+# WebSocket 客户端 (用于 ComfyUI API)
+websocket-client
+
+# 图像处理库 (用于 UI 显示和缩略图)
+Pillow
+
+# 音频播放库 (用于播放提示音)
+pygame
+
+# Windows 系统通知库
+win10toast-persist
+win10toast
+
+# 控制台颜色库 (用于日志输出)
+colorama

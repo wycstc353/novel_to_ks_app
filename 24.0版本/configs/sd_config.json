@@ -1,0 +1,13 @@
+{
+    "sdWebUiUrl": "http://127.0.0.1:6006",
+    "sdOverrideModel": "",
+    "sdOverrideVAE": "",
+    "sdEnableHR": false,
+    "sdHRScale": 2.0,
+    "sdHRUpscaler": "Latent",
+    "sdHRSteps": 0,
+    "sdInpaintingFill": 1,
+    "sdMaskMode": 0,
+    "sdInpaintArea": 1,
+    "sdResizeMode": 1
+}

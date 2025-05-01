@@ -1,0 +1,6 @@
+{
+    "apiKey": "",
+    "apiBaseUrl": "https://api.openai.com/v1",
+    "modelName": "gpt-4o",
+    "customHeaders": {}
+}

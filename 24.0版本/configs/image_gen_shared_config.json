@@ -1,0 +1,19 @@
+{
+    "imageSaveDir": "E:/baiduyun/novel_to_ks_app/图片",
+    "sampler": "Euler a",
+    "scheduler": "karras",
+    "steps": 20,
+    "cfgScale": 7.0,
+    "width": 1024,
+    "height": 1024,
+    "seed": -1,
+    "sharedRandomSeed": false,
+    "denoisingStrength": 0.7,
+    "clipSkip": 1,
+    "maskBlur": 4,
+    "restoreFaces": false,
+    "tiling": false,
+    "additionalPositivePrompt": "masterpiece, best quality",
+    "additionalNegativePrompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry",
+    "saveImageDebugInputs": true
+}
